@@ -27,11 +27,15 @@ body {
   align-items: center;
   min-width: 1340px;
   background-color: hsl(228, 33%, 97%);
-  padding-top: 8rem;
+  padding-top: 6rem;
 }
 
 h1{
-  display: none;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: 5px;
+  color: var(--White);
+  padding-bottom: 2rem;
 }
 
 p {
