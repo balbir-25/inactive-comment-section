@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://github.com/balbir-25/inactive-comment-section)
-- Live Site URL:( https://balbir-25.github.io/inactive-comment-section/)
+- Solution URL:(https://github.com/balbir-25/interactive-comment-section)
+- Live Site URL:( https://balbir-25.github.io/interactive-comment-section/)
 
 ## My process
 
